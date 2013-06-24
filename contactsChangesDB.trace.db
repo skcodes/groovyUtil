@@ -1,3 +1,0 @@
-06-21 13:18:32 jdbc[2]: exception
-org.h2.jdbc.JdbcSQLException: Table "NONTABLE" not found; SQL statement:
-select * from nonTable [42102-164]
